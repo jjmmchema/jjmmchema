@@ -7,7 +7,6 @@
 
 ### 🧠 I've learned about:
 + Machine Learning.
-+ Physics simulations.
 + Coding games.
 + GUI applications.
 + Automation.
@@ -17,5 +16,6 @@
 + JavaFX.
 
 ### 🚀 I want to explore:
++ Physics simulations.
 + Databases.
 + JS HTML CSS.
