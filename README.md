@@ -11,11 +11,7 @@
 + GUI applications.
 + Automation.
 
-### 🌱 I'm currently learning:
-+ OpenGL. *(C++)*
-+ JavaFX.
-
 ### 🚀 I want to explore:
-+ Physics simulations.
 + Databases.
 + JS HTML CSS.
++ Physics simulations.
